@@ -1,0 +1,22 @@
+{
+  "name": "alexa_pokedex",
+  "version": "1.0.0",
+  "description": "It's an Alexa Skill to catch 'em all",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alefcarlos/alexa_pokedex.git"
+  },
+  "author": "Alef Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alefcarlos/alexa_pokedex/issues"
+  },
+  "homepage": "https://github.com/alefcarlos/alexa_pokedex#readme",
+  "dependencies": {
+    "pokedex-promise-v2": "^3.2.0"
+  }
+}
